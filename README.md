@@ -17,4 +17,4 @@ while coding:
 ```
 
 <hr>
-<h2 align="center"> Fun project you should check: <a href="https://github.com/Justintern/Time-Bank.git"> Time Budget</a></h2>
+<h2 align="center"> Fun project you should check: <a href="https://github.com/Justintern/Youtube_Downloader.git"> YouTube Downloader </a></h2>
