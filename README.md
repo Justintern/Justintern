@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hello, World! 👋 I'm Justin Rivera. </h1>
 
-<h3 align="center">An ambitious First Year, proudly studying Software Engineering at UPRM!</h3>
+<h3 align="center">An ambitious Third Year, proudly studying Software Engineering at UPRM!</h3>
 <p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> </p>
 
 ```python
